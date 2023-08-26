@@ -1,6 +1,7 @@
 # Legacy of Evil II: Beyond The Devil
 
 A singleplayer horror adventure written in c# using unity
+**Note**: I am still working on code documentation and some optimizations to improve readability and logic
 
 ## Project Structure:
 <ul>
