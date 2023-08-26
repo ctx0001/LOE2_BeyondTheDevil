@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Hall Key",
+    "state": "active"
+  },
+  {
+    "name": "Offices Key",
+    "state": "active"
+  },
+  {
+    "name": "Stock Key",
+    "state": "active"
+  },
+  {
+    "name": "crowbar",
+    "state": "active"
+  },
+  {
+    "name": "Bathroom Key",
+    "state": "active"
+  },
+  {
+    "name": "Sewers Key",
+    "state": "active"
+  },
+  {
+    "name": "Morgue Key",
+    "state": "active"
+  },
+  {
+    "name": "axe_Bloody",
+    "state": "active"
+  },
+  {
+    "name": "Screwdriver",
+    "state": "active"
+  },
+  {
+    "name": "Bathroom Key",
+    "state": "active"
+  },
+  {
+    "name": "Downstairs Key",
+    "state": "active"
+  },
+  {
+    "name": "Statue Key",
+    "state": "active"
+  },
+  {
+    "name": "AncientCube1",
+    "state": "active"
+  },
+  {
+    "name": "AncientCube2",
+    "state": "active"
+  },
+  {
+    "name": "AncientCube3",
+    "state": "active"
+  },
+  {
+    "name": "IncenseBurner1",
+    "state": "active"
+  },
+  {
+    "name": "IncenseBurner2",
+    "state": "active"
+  },
+  {
+    "name": "IncenseBurner3",
+    "state": "active"
+  },
+  {
+    "name": "DiaryLetter1",
+    "state": "active"
+  },
+  {
+    "name": "DiaryLetter2",
+    "state": "active"
+  },
+  {
+    "name": "DiaryLetter3",
+    "state": "active"
+  },
+  {
+    "name": "DiaryLetter4",
+    "state": "active"
+  },
+  {
+    "name": "DiaryLetter5",
+    "state": "active"
+  },
+  {
+    "name": "DiaryLetter6",
+    "state": "active"
+  },
+  {
+    "name": "money1",
+    "state": "active"
+  },
+  {
+    "name": "money2",
+    "state": "active"
+  },
+  {
+    "name": "Candle1",
+    "state": "active"
+  },
+  {
+    "name": "Candle2",
+    "state": "active"
+  },
+  {
+    "name": "Candle3",
+    "state": "active"
+  },
+  {
+    "name": "Candle4",
+    "state": "active"
+  },
+  {
+    "name": "Candle5",
+    "state": "active"
+  },
+  {
+    "name": "Candle6",
+    "state": "active"
+  }
+]

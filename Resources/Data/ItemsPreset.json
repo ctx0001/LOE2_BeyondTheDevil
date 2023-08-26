@@ -1,0 +1,9 @@
+[
+  {
+    "id": 0,
+    "name": "torch",
+    "sprite": "Sprites/torch",
+    "gameObjectName": null,
+    "quantity": 1
+  }
+]

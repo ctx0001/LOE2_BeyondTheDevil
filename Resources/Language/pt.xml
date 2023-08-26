@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<text id="0">Sem sistema de segurança, luzes já acesas, ganhei a lotaria! </text>
+	<text id="1">Maldição! É melhor ele responder e fingir ser o proprietário da casa.</text>
+	<text id="2">O que foi isso? ... é melhor ir ver</text>
+	<text id="3">Pega no telefone</text>
+	<text id="4">Desligar o gramofone</text>
+	<text id="5">Óptimo! isto é perfeito para remover caixotes de madeira do corredor.</text>
+	<text id="6">Ir e abrir uma passagem para o corredor</text>
+	<text id="7">Devo primeiro segurar o objecto na minha mão</text>
+	<text id="8">Esta passagem está bloqueada, tenho de encontrar outra passagem.</text>
+	<text id="9">Esta porta está trancada, primeiro tenho de encontrar a chave.</text>
+	<text id="10">Esta porta parece estar ligada a uma unidade de controlo eléctrico.</text>
+	<text id="11">Preciso de encontrar uma chave de fendas para a abrir.</text>
+	<text id="12">Encontrar uma chave de fendas para abrir a unidade de controlo</text>
+	<text id="13">Abrir a unidade de controlo</text>
+	<text id="14" context="ui">Intervalo</text>
+	<text id="15" context="ui">Retomar</text>
+	<text id="16" context="ui">Menu</text>
+	<text id="17" context="ui">Sair do jogo</text>
+	<text id="19" context="ui">Interagir</text>
+	<text id="20" context="ui">Aberto</text>
+	<text id="21" context="ui">Toma</text>
+	<text id="22" context="menu">Jogue</text>
+	<text id="23" context="menu">Rever o jogo</text>
+	<text id="24" context="menu">Créditos</text>
+	<text id="25" context="menu">Saída</text>
+	<text id="26" context="menu">Continuação</text>
+	<text id="27" context="menu">Nova partida</text>
+	<text id="28" context="menu">Tem a certeza?</text>
+	<text id="29" context="menu">Sim</text>
+	<text id="30" context="menu">Não</text>
+	<text id="31" context="menu">Substituição de dados</text>
+	<text id="32" context="menu">Parece que já existe um jogo em curso, clicando em novo jogo irá sobrescrever os dados da última salvaguarda.
+		Tem a certeza de que quer sobrescrever os dados do jogo?</text>
+	<text id="33" context="menu">Sim</text>
+	<text id="34" context="menu">Não</text>
+	<text id="35" context="menu">Dados corrompidos encontrados</text>
+	<text id="36" context="menu">Os ficheiros de jogo em falta foram detectados e a salvaguarda danificada foi automaticamente apagada. Pedimos desculpa pelo inconveniente.</text>
+	<text id="37" context="menu">Ok</text>
+	<text id="38" context="menu">Configurações</text>
+	<text id="39" context="menu">Sensibilidade do mouse</text>
+	<text id="40" context="menu">Idioma</text>
+	<text id="41" context="menu">Nível de qualidade</text>
+	<text id="42" context="menu">Volume de áudio</text>
+	<text id="43">Leia</text>
+	<text id="44">Hackera</text>
+	<text id="45">Responder</text>
+	<text id="46">Toma</text>
+	<text id="47">Talvez eu esteja a esquecer-me de algo nesta sala</text>
+	<text id="48">Que diabos se passa?</text>
+	<text id="49">Um amuleto, certo? ... Interessante ...</text>
+	<text id="50" context="ui">
+		Chegou ao meu conhecimento que levou para sua casa um artefacto que descobriu durante a sua investigação arqueológica. Não posso ignorar o facto de que se trata de uma violação grave das regras éticas e profissionais que todos nós, arqueólogos, devemos respeitar.
+
+		Gostaria que soubesse que, se não o devolver imediatamente ao sítio arqueológico, serei obrigado a comunicar o facto à Sophia. Peço-vos que considerem cuidadosamente a gravidade da situação e que tomem as medidas adequadas para a resolver.
+
+		Com os melhores cumprimentos,
+		Ewan MacKenzie
+	</text>
+	<text id="51" context="ui">
+		O amuleto foi encontrado durante uma busca arqueológica numa área que sugeria a presença de um antigo povoado romano. O objecto foi encontrado perto de uma parede em ruínas, numa área que parecia ter sido usada para enterramento.
+
+		O amuleto é feito de cobre e tem uma forma circular, com um diâmetro de cerca de 4 cm. No centro do amuleto está colocado um rubi de tamanho considerável, com cerca de 2 cm de diâmetro. A superfície do amuleto apresenta sinais de desgaste, mas a pedra de rubi está em relativamente bom estado. Na parte de trás do amuleto estão gravadas marcas, presumivelmente inscrições em latim.
+
+		A datação por radiocarbono do amuleto sugere que foi criado em 33 d.C., durante a época romana.
+	</text>
+	<text id="52" context="ui">
+		A presença de uma inscrição latina no verso do amuleto sugere que este pode ter sido utilizado como objecto de culto ou como amuleto para proteger o possuidor de forças malignas.
+
+		O amuleto parece ter sido criado com a intenção de proteger o possuidor de forças malignas. A inscrição latina no verso do amuleto ("Per dolore inferorum porta patefacitur", Através da dor abrem-se as portas do mundo inferior) sugere que o possuidor do amuleto teria de passar por um sofrimento para abrir as portas do mundo inferior e proteger-se das forças malignas. A presença de um rubi no centro do amuleto pode estar relacionada com a crença romana de que esta gema tinha propriedades protectoras e curativas.
+	</text>
+	<text id="53">Desligar</text>
+	<text id="54">Uau! ... isto pode valer muito dinheiro</text>
+	<text id="55">Pesquisa de objectos de valor</text>
+	<text id="56">Inspeccionar os livros</text>
+	<text id="57" context="menu">Volume dos Diálogos</text>
+	<text id="58" context="menu">Volume de Ambiente</text>
+	<text id="59" context="menu">Volume de música</text>
+	<text id="60" context="menu">Resolução do ecrã</text>
+	<text id="61" context="menu">Qualidade da textura</text>
+	<text id="62" context="menu">Anti-Aliasing</text>
+	<text id="63" context="menu">Qualidade da Sombra</text>
+	<text id="64">Que diabos se passa?</text>
+	<text id="65">Acho que algum animal os deitou abaixo</text>
+	<text id="66">mas é melhor eu ir ver esses livros de qualquer maneira</text>
+	<text id="67">O proprietário anterior era arqueólogo</text>
+	<text id="68">Um achado tão antigo valerá muito dinheiro</text>
+	<text id="70">Será que o gramofone se ligou?</text>
+	<text id="71">Talvez haja um curto-circuito</text>
+	<text id="72">Mas não posso arriscar chamar a atenção.</text>
+	<text id="73">Tenho de encontrar uma forma de o desligar antes que alguém o ouça</text>
+	<text id="74">É melhor não perder tempo e voltar para a sala de estar</text>
+	<text id="75">para o desligar</text>
+	<text id="76">Um cofre?</text>
+	<text id="77">Posso tentar hackeá-lo e abri-lo</text>
+	<text id="78">Oh meu Deus, o que era aquilo?</text>
+	<text id="79">Estava aqui à minha frente</text>
+	<text id="81">Mas não... não pode ser real,</text>
+	<text id="82">Deve ser apenas a minha mente a pregar partidas</text>
+	<text id="83">Os tratamentos da minha filha são caros</text>
+	<text id="84">E este trabalho é a única solução, tenho de continuar</text>
+	<text id="85">Oh não, o que é que se passa agora?</text>
+	<text id="91">Hackear o cofre</text>
+	<text id="92">Acho que ouço um cântico vindo da casa de banho</text>
+	<text id="93">Aqui está a primeira chave! Tenho mais duas para encontrar</text>
+	<text id="94">Só falta a última chave, pergunto-me onde poderá estar</text>
+	<text id="95">E aqui está o último, vamos ver o que está escondido naquela gaveta</text>
+	<text id="96">Primeiro tenho de encontrar uma chave para o desbloquear</text>
+	<text id="97">Quem quer que vivesse aqui queria proteger</text>
+	<text id="98">incrivelmente bem esta gaveta</text>
+	<text id="99">Talvez a combinação esteja aqui</text>
+	<text id="100">É melhor procurar as chaves para descobrir</text>
+	<text id="101">Encontrar as chaves da gaveta</text>
+	<text id="102">Atrás desta sala pode ser algo útil</text>
+	<text id="103">Preciso de encontrar a combinação ... mas como?</text>
+	<text id="104">Procurar a combinação</text>
+	<text id="105">CORRECTO</text>
+	<text id="106">INCORRETO</text>
+	<text id="107" context="ui">Transportador de sinal</text>
+	<text id="108" context="ui">Carregue o sinal para a porta para a abrir, pode usar as teclas de seta para mudar de direcção para o sinal</text>
+	<text id="109" context="ui">Sistema contornado</text>
+	<text id="110" context="ui">Quebra-Cifras</text>
+	<text id="111" context="ui">Encontrar os caracteres correctos na grelha e organizá-los correctamente na segunda grelha, arrastando-os para descodificar a corda.</text>
+	<text id="112" context="ui">Ocorreu um erro de sistema</text>
+	<text id="113" context="ui">Volte a tentar em</text>
+	<text id="114" context="ui">HACKING FAILED</text>
+	<text id="115" context="ui">Tentar novamente</text>
+	<text id="116" context="ui">SISTEMA CONTORNADO COM SUCESSO</text>
+	<text id="117">Não creio que este objecto possa ser-me útil</text>
+	<text id="118">Incenso? Da imagem, parece-me que</text>
+	<text id="119">já viu algo semelhante</text>
+	<text id="120">É claro! Eu vi-os na sala com o cofre</text>
+	<text id="121">Acho que também vi outro no escritório</text>
+	<text id="122">onde encontrei o machado</text>
+	<text id="123">Penso que há algo mais útil nesta sala</text>
+	<text id="124">Eu poderia tentar verificar mais</text>
+	<text id="125">Perfeito, agora tenho de encontrar seis velas.</text>
+	<text id="126">Acho que já os vi algures antes</text>
+	<text id="127">Certo! Vi alguns no escritório, no rés-do-chão.</text>
+	<text id="128">Há provavelmente outros na casa de banho e</text>
+	<text id="129">no quarto no segundo andar</text>
+	<text id="130">"Quando abrimos a porta à escuridão, esquecemo-nos muitas vezes que o que está por detrás dela pode não querer sair". - Stephen King</text>
+	<text id="131">Destrua</text>
+	<text id="132">Desactivado</text>
+	<text id="133" context="ui">
+		Dizia-se que Paimon estava a tentar obter um amuleto antigo, cujo poder poderia conceder ao seu possuidor o controlo absoluto sobre o inferno e a terra. Mas poucos sabiam que havia uma forma de o impedir.
+
+		Diz a lenda que havia um ritual antigo que poderia mandar Paimon de volta para o inferno, onde ele não poderia fazer mal a ninguém. O ritual exigia a colocação de seis velas e três incensários no selo de Salomão, juntamente com o amuleto que Paimon procurava com tanta determinação.
+	</text>
+	<text id="134">Ele deve ter escondido o amuleto no cofre para não o conseguir apanhar.</text>
+	<text id="135">Não o posso deixar ficar com o amuleto.</text>
+	<text id="136">Tenho de ganhar coragem e enfrentar esta situação.</text>
+	<text id="161">é muito provável que, dada a confidencialidade</text>
+	<text id="137">na protecção desta gaveta</text>
+	<text id="138">a combinação deve ser encriptada</text>
+	<text id="139">São figuras geométricas...</text>
+	<text id="140">Poderá estar relacionado com os lados das figuras</text>
+	<text id="141">Já sei! Um hexágono tem 6 lados.</text>
+	<text id="142">Um quadrado tem 4 lados. Um círculo 0 e um triângulo 3.</text>
+	<text id="143">A combinação deve ser 6-4-0-3</text>
+	<text id="144" context="ui">Escolha do perfil gráfico</text>
+	<text id="145" context="ui">Baixa qualidade</text>
+	<text id="146" context="ui">Qualidade média</text>
+	<text id="147" context="ui">Alta qualidade</text>
+	<text id="148" context="ui">RAM de vídeo</text>
+	<text id="149" context="ui">Necessário: </text>
+	<text id="150" context="ui">RAM</text>
+	<text id="151" context="ui">Escolher</text>
+	<text id="152" context="ui">Recomendado</text>
+	<text id="153" context="ui">ATENÇÃO</text>
+	<text id="154" context="ui">
+		Este jogo utiliza luz intensa e efeitos estroboscópicos. Recomenda-se que não jogues se tiveres epilepsia ou outras perturbações semelhantes que possam ser afectadas pelos efeitos visuais do jogo. Recomenda-se que interrompa imediatamente a utilização se sentir sintomas como tonturas, náuseas, dores de cabeça ou fadiga visual.
+	</text>
+	
+	<text id="155" context="ui">
+		12/07/2013
+		Decidi começar a estudar o amuleto nos meus tempos livres, sei que não o devia ter trazido para minha casa, mas acho que é um objecto muito interessante e especial.
+	</text>
+	<text id="156" context="ui">
+		19/07/2013
+		Hoje cortei-me com um bisturi ao tentar recolher uma amostra para análise, e uma gota de sangue salpicou o amuleto, o mais surreal é que a gema no centro por algum motivo começou a brilhar intensamente durante alguns segundos.
+	</text>
+	<text id="157" context="ui">
+		20/07/2013
+		Parece que não aconteceu nada, ainda não percebi porque é que a gema brilhou, tentei cortar-me outra vez para ver a reacção mas nada. Além disso, um dos meus colegas veio a saber que eu trouxe um objecto do local da escavação para minha casa.
+	</text>
+	<text id="158" context="ui">
+		27/07/2013
+		De há uns dias para cá têm acontecido coisas estranhas em minha casa. No início eram coisas pequenas, pensei que tinha simplesmente perdido alguns objectos, mas depois o meu gramofone ligou-se sozinho e ouvi uma menina a cantar e a pedir ajuda. É como se houvesse algo nesta casa, estou muito confusa.
+	</text>
+	<text id="159" context="ui">
+		29/07/2013
+		Continuei à procura de uma explicação lógica para os acontecimentos estranhos que estavam a acontecer em minha casa, mas não encontrei nada. Decidi pedir ajuda a um amigo que é especialista em fenómenos paranormais, para ver se ele me ajuda a perceber o que se passa.
+	</text>
+	<text id="160" context="ui">
+		04/08/2013
+		Tive uma noite terrível. Quando estava a tentar dormir, ouvi uma voz a chamar-me da sala de estar. Fui ver e encontrei um diário aberto na minha secretária. Na página aberta estava o nome "Paymon" e a inscrição "Agora sabes o meu nome, e com ele a tua condenação eterna". Não sei o que significa, mas tenho medo.
+	</text>
+	<text id="80" context="ui">Sair</text>
+
+	<text id="162" context="ui">
+		Para quem estiver a ler esta carta. Têm de acabar o que eu comecei.
+		O meu nome é Robert Andrew Sinclair e já não me resta muito tempo antes que o diabo tome conta de mim, por isso escrevo esta carta para vos informar da situação.
+
+		Quando aceitei uma oferta de trabalho no Forte Romano de Carmtyne, um sítio de escavação arqueológica perto de Glasgow, tive de deixar a minha cidade natal, Aberdeen, e tive de desistir do meu cargo de professor na universidade. Com as poupanças que tinha acumulado, comprei um antigo banco chamado Glasgow Trust Bank, que, após falência, foi convertido num apartamento multifuncional por James William Anderson. Tudo estava perfeito até que me deparei com um amuleto datado de 33 d.C. Não vos quero maçar mais, e nem sequer tenho tempo para isso, por isso vou directo ao assunto.
+	</text>
+	<text id="163" context="ui">
+		Fiz muita pesquisa quando me apercebi que a situação ultrapassava a lógica e o conceito de realidade e, inicialmente, não encontrei nada de muito específico, coisas genéricas:
+
+		1. Os demónios são criaturas sobrenaturais que podem influenciar as pessoas e as situações à sua volta.
+
+		2. Saber o nome de um demónio pode aumentar o seu poder sobre a pessoa que ele quer possuir.
+
+		3. A utilização de símbolos sagrados pode ser eficaz para nos protegermos e combatermos os demónios.
+	</text>
+	<text id="164" context="ui">
+		Nunca fui uma pessoa religiosa, mas a Bíblia foi muito útil desta vez. Através de uma passagem, obtive mais três informações sobre o meu inimigo.
+
+		1. Paymon é um demónio de Goetia, um dos reis do inferno.
+		2. Ele pode assumir diferentes formas e aparecer de diferentes maneiras, dependendo do invocador e da situação.
+		3. A pessoa que o conjurar morrerá ao fim de 33 dias.
+
+		Quando soube que não ia festejar o meu 40º aniversário, já tinham passado 31 dias, o que significava que só me restavam 48 horas para descobrir como o derrotar.
+	</text>
+	<text id="165" context="ui">
+		Depois de muito esforço, encontrei um livro chamado "et tenebris velamen" que mencionava o que, pela descrição, parecia ser o amuleto que tínhamos encontrado no local da escavação.
+		Este livro dizia que, em caso algum, o amuleto deveria entrar nas mãos do demónio, ou a porta do inferno abrir-se-ia e seria o fim da humanidade.
+		No entanto, o livro também dizia que o amuleto era a chave para aprisionar o demónio no seu interior novamente e passo a citar: "É possível derrotar o demónio, com o selo de Salomão, colocando o amuleto no centro e rodeando-o com seis velas e três incensórios".
+	</text>
+	<text id="166" context="ui">
+		Na verdade, nessa altura ainda não tinha desistido, sou um ser humano e, apesar de ter sido condenado, tinha o desejo de sobreviver, e foi nessa altura, quando o vi pela primeira vez à minha frente, que percebi que o tempo não me chegaria.
+		Por isso, decidi confiar o destino do mundo nas mãos de um desconhecido. Agora que já se sabe tudo, não se pode voltar atrás.
+
+		P.S: Deixei tudo o que é necessário para o ritual em casa, além disso preparei um quarto pronto, encontra os objectos, e encontra o meu computador de trabalho, aí encontrarás a explicação. A palavra-passe é Robert2012.
+	</text>
+	<text id="167">Desbloqueio</text>
+	<text id="168">Carregando...</text>
+	<text id="169">Nova página de diário encontrada</text>
+	<text id="170">para ler</text>
+	<text id="171">Sair</text>
+	
+	<text id="172" context="ui-sheet">ID do Objecto,Descrição,Material,Tipo,Origem,Data Encontrada,Local Encontrado;AR001,Estátua de Bronze,Bronze,Escultura,Glasgow,Maio 2023,Sala 3;AR002,Moeda Romana,Ouro,Moeda,Glasgow,Junho 2023,Balneário; AR003,Fragmento de um vaso romano,Terracota,Cerâmica,Glasgow,Julho 2023,Cozinha; AR004,Par de sandálias romanas,Couro,Calçado,Glasgow,Agosto 2023,Arrecadação; AR005,Ponta de lança romana,Ferro,Armas,Glasgow,Setembro 2023,Quintal AR006,Candeeiro romano,Terracota,Iluminação,Glasgow,Outubro 2023,Sala da Guarda; AR007,Frasco de vidro romano,Vidro,Vaso,Glasgow,Novembro 2023,Arrecadação; AR008,Jarro de cerâmica romana,Terracota,Cerâmica,Glasgow,Dezembro 2023,Casa do Centurião AR009,Broche romano,Bronze,Joalharia,Glasgow,Janeiro de 2024,Bloco do Quartel 3; AR010,Chefe de escudo romano,Bronze,Armadura,Glasgow,Fevereiro de 2024,Bloco do Quartel;</text>
+	<text id="173" context="ui-sheet">Data,Categoria,Montante; 01/01/2023,Material de escritório,£25; 02/01/2023,Despesas de deslocação,£150; 05/01/2023,Internet e telefone,£70; 07/01/2023,Aluguer de equipamento,£200; 10/01/2023,Impressão e encadernação,£80; 15/01/2023,Publicidade,£350; 20/01/2023,Subscrições de software,£100; 25/01/2023,Honorários de consultoria,£500; 28/01/2023,Despesas de deslocação,£120;</text>
+	<text id="174" context="ui-document">
+		Relatório de Escavação Sítio: Forte Romano de Carmtyne
+		Localizaçao: Glasgow, Escócia
+		Data: Março de 2023
+
+		Introdução
+		Esta escavação foi realizada em Março de 2023 no sítio do Forte Romano de Carmtyne, em Glasgow, Escócia. A escavação foi encomendada pela Câmara Municipal de Glasgow em parceria com a Universidade de Glasgow e dirigida pelo Dr. Robert Andrew Sinclair, um arqueólogo com vasta experiência em arqueologia romana.  Resumo dos resultados A escavação no Forte Romano de Carmtyne revelou uma grande quantidade de artefactos romanos, incluindo moedas, cerâmica, objectos de metal e elementos arquitectónicos. Os achados mais significativos incluem:
+
+		Uma secção bem preservada da muralha romana, medindo aproximadamente 20 metros de comprimento e 3 metros de altura Um complexo de balneários romanos, completo com um sistema de aquecimento por hipocausto e vários azulejos de mármore bem preservados
+
+		Uma colecção de moedas romanas, incluindo vários exemplares raros que datam do século I d.C. Um conjunto de fragmentos de cerâmica, incluindo alguns com intrincados padrões decorativos e inscrições
+
+		Uma estátua de bronze de um imperador romano, que se crê ser Augusto, que foi encontrada em condições notáveis Localização dos artefactos Todos os artefactos foram cuidadosamente catalogados e mapeados durante a escavação.
+
+		A localização de cada artefacto foi registada através de coordenadas GPS e marcada num mapa detalhado do local. As localizações dos artefactos são as seguintes:
+		Muro romano: Referência de grelha 55.938156, -4.131343
+		Complexo balnear: referência 55.937952, -4.131536
+		Colecção de moedas: Referência da grelha 55.937822, -4.130990
+		Fragmentos de cerâmica: Referência da grelha 55.937792, -4.131157
+		Estátua de bronze: Referência da grelha 55.937756, -4.131410
+
+		A escavação no Forte Romano de Carmtyne produziu uma grande quantidade de novas informações sobre a presença romana na Escócia e lançou luz sobre a vida quotidiana dos soldados e civis que viviam e trabalhavam no forte. Os artefactos recuperados do local serão estudados mais aprofundadamente pela equipa de arqueólogos e historiadores da Universidade de Glasgow e serão disponibilizados ao público para consulta e investigação num futuro próximo.
+	</text>
+	<text id="175" context="ui-document">
+		Título do projecto: Projecto de Escavação do Forte Romano de Carmtyne
+		Líder: Dr. Robert Andrew Sinclair
+
+		Introdução
+		O Forte Romano de Carmtyne, em Glasgow, na Escócia, foi identificado como um potencial tesouro de artefactos romanos. Esta proposta descreve um projecto de escavação abrangente para desvendar os segredos desta antiga povoação romana e lançar luz sobre a vida quotidiana dos soldados e civis que aí viveram e trabalharam.
+
+		Objectivos do projecto
+		Os objectivos deste projecto de escavação são os seguintes
+
+		Descobrir e catalogar todos os artefactos e características arquitectónicas do Forte Romano de Carmtyne.
+
+		Documentar a disposição e a construção do forte e dos edifícios associados.
+
+		Estudar e analisar os artefactos recuperados para melhor compreender a vida quotidiana e as actividades dos ocupantes romanos do forte.
+
+		O projecto será dirigido pelo Dr. Robert Andrew Sinclair, um arqueólogo experiente, com especialização em arqueologia romana. A escavação será efectuada utilizando uma combinação de escavação manual tradicional e técnicas científicas modernas, como o radar de penetração no solo e a digitalização 3D. Os artefactos e elementos arquitectónicos recuperados do local serão cuidadosamente catalogados e analisados utilizando equipamento e técnicas de ponta.
+
+		Resultados esperados
+		Espera-se que o projecto de escavação produza um manancial de novas informações sobre a presença romana na Escócia e lance luz sobre a vida quotidiana dos soldados e civis que viveram e trabalharam no Forte Romano de Carmtyne. Os artefactos recuperados do local serão estudados mais aprofundadamente pela equipa de arqueólogos e historiadores da Universidade de Glasgow e serão disponibilizados ao público para consulta e investigação num futuro próximo.
+
+		Orçamento
+		O orçamento total para este projecto de escavação está estimado em £500.000.
+		Este valor inclui os custos associados ao pessoal, equipamento, deslocações e alojamento. Conclusão O projecto de escavação do Forte Romano de Carmtyne promete ser um empreendimento excitante e informativo. O projecto reunirá peritos no domínio da arqueologia romana e técnicas científicas modernas para desvendar os segredos desta antiga povoação. Os resultados do projecto serão de interesse para académicos, historiadores e para o público em geral.
+	</text>
+	<text id="176" context="ui-document">
+		O que muita gente não sabia é que James, quando comprou o Glasgow Trust Bank, criou uma sala secreta nas obras de renovação para se reunir com um antigo conselho de famílias poderosas com o objectivo de manter o seu poder e influência sobre a cidade. Este conselho tinha como principal objectivo a acumulação de dinheiro e de poder, recorrendo a métodos nem sempre legais ou éticos.
+
+		James era membro deste conselho desde a infância, a sua família fazia parte do conselho há 3 gerações, mas durante a sua vida adulta começou a sentir-se cada vez mais desiludido com a forma como funcionavam e decidiu criar a sala secreta como forma de acompanhar as suas actividades e tentar contrabalançar o seu poder. A sala secreta continha documentos e informações valiosos que poderiam ser usados para expor os membros do conselho e acabar com a sua hegemonia sobre a cidade.
+
+		Mas o Conselho não desistiu facilmente. Assim que souberam da sala secreta de James, começaram a tentar encontrá-la e destruí-la, convencidos de que a sua existência ficaria comprometida se a informação contida na sala fosse tornada pública. Começou uma caça ao homem para encontrar a sala secreta e o seu conteúdo, e James foi forçado a esconder-se e a adoptar uma nova identidade para se proteger.
+
+		Mas nem todos os membros do Conselho concordavam com o que o seu grupo estava a fazer. Alguns deles começaram a colaborar secretamente com James, fornecendo-lhe informações valiosas e ajudando-o a manter a sala secreta segura. Eventualmente, graças à informação recolhida na sala, James foi capaz de expor os membros do Conselho e revelar a verdade sobre a sua operação.
+
+		Agora, muitos anos depois, a sala secreta de James ainda lá está, escondida e protegida de qualquer pessoa que queira proteger a verdade e a justiça. O mecanismo para abrir a sala continua desconhecido até hoje, mas eu encontrei e reuni algumas pistas que te podem ajudar a encontrá-lo.
+	</text>
+	<text id="177">pistas encontradas</text>
+	<text id="178">Abrir a gaveta</text>
+	<text id="179">Abrir a porta com a combinação</text>
+	<text id="180">Verificar a casa de banho</text>
+	<text id="181">Encontrar objectos para o ritual</text>
+	<text id="182">Procurar informações no computador</text>
+	<text id="183">Preparar o ritual na sala secreta</text>
+	<text id="184">Recolhi tudo o que preciso</text>
+	<text id="185">Agora tenho de procurar informações no computador</text>
+	<text id="186">Interessante, provavelmente o verso das cruzes</text>
+	<text id="187">desbloqueia a sala secreta</text>
+	<text id="188">Não aconteceu nada</text>
+	<text id="189">Se bem me lembro, foi o sangue que</text>
+	<text id="190">activou o amuleto pela primeira vez</text>
+	<text id="191">Vi uma coisa afiada no quarto</text>
+	<text id="192">Mas se essa coisa me vai ver</text>
+	<text id="193">Então tudo isto terá sido em vão</text>
+	<text id="194">Preciso de aceder ao computador</text>
+	<text id="195">a palavra-passe estava na carta</text>
+	<text id="196">espero lembrar-me bem</text>
+	<text id="197">Foi uma chamada falsa...</text>
+	<text id="198">É melhor procurar a chave para esta porta</text>
+	<text id="199">Começar o ritual</text>
+	<text id="200">Encontrar uma forma de abrir a passagem secreta</text>
+
+	<text id="201">
+		Velas
+		Quarto de dormir: 1
+		Casa de banho: 1
+		Escritório A: 2
+		Esgotos: 2
+	</text>
+	<text id="202">
+		Queimadores de incenso
+		Escritório: 1
+		Esgotos: 1
+		Escritório B: 1
+	</text>
+	<text id="203">Procurar valores para roubar</text>
+	<text id="204">
+		Pode utilizar a tecla F para ligar e desligar a lanterna quando selecionada no inventário.
+
+		Pode utilizar a tecla E para abrir/fechar cartas e para interagir com objectos em geral.
+
+		Podes usar a tecla shift esquerda para correr.
+
+		Pode utilizar as teclas WASD para se deslocar e o rato para controlar a visão da personagem.
+
+		Pode usar a tecla P para fazer uma pausa no jogo.
+	</text>
+	<text id="205">Continuar</text>
+	<text id="206">Antes de tentar piratear o cofre</text>
+	<text id="207">Tenho de ir ver os livros que caíram</text>
+	<text id="208">Robert...</text>
+	<text id="209">Acho que já não precisas disto</text>
+	<text id="210">Vemo-nos no outro lado</text>
+	<text id="211">Encontrar uma forma de sair</text>
+	<text id="212">Retirar a barricada da porta de saída</text>
+	<text id="213">Tenho de encontrar algo para tirar estas barras</text>
+	<text id="214">Não posso sair agora</text>
+	<text id="215">Estas alavancas podem desbloquear algo útil.</text>
+	<text id="216">Esta pode ser uma metáfora útil para compreender</text>
+	<text id="217">a ordem pela qual se deve baixar as alavancas</text>
+	<text id="218">"seguir a antiga divindade da Íris Brilhante"...</text>
+	<text id="219">pode significar o sol.</text>
+	<text id="220">"Onde a alma da Terra se entrelaça com o céu"...</text>
+	<text id="221">isto pode significar a árvore.</text>
+	<text id="222">"Quando a noite prateada vigia no firmamento"...</text>
+	<text id="223">pode significar a lua.</text>
+	<text id="224">Diria, portanto, que a combinação correcta é sol, árvore e lua.</text>
+	<text id="225">esta sala é uma armadilha!</text>
+	<text id="226">o nível da água está a subir.</text>
+	<text id="227">Tenho de encontrar uma maneira de sair daqui</text>
+	<text id="228">antes de a água tocar nesses cabos.</text>
+	<text id="229">Sair da sala antes que o tempo acabe</text>
+	<text id="230">Foi por pouco!</text>
+	<text id="231">É melhor dar uma vista de olhos.</text>
+	<text id="232">Talvez encontre algo útil...</text>
+	<text id="233">Acho que acabei de abrir uma sala</text>
+
+	<text id="234">Tenho de desligar o gramofone</text>
+	<text id="235">é absurdo</text>
+	<text id="236">mas... onde é que eu estou?</text>
+	<text id="237">Explorar os esgotos</text>
+	<text id="238">
+		Na escuridão envolvente
+		segue a antiga divindade da Íris Brilhante
+		Onde a Alma da Terra se entrelaça com o céu
+		E quando a Noite Prateada vigia no alto do firmamento
+	</text>
+	<text id="239">
+		O assalto ocorreu ontem à noite, quando a cidade estava envolta em silêncio. Os assaltantes, ainda desconhecidos, entraram no banco através de um acesso oculto localizado nas profundezas do sistema de esgotos. Os investigadores acreditam que tinham um conhecimento profundo das condutas e túneis subterrâneos para poderem planear um ataque tão bem coordenado e discreto.
+
+		Uma vez dentro do banco, os criminosos agiram com extrema rapidez e eficiência, dirigindo-se diretamente para o cofre, onde se encontravam os valiosos cofres de segurança.
+
+		O Comissário da Polícia John Anderson emitiu uma declaração sobre a forma invulgar do assalto: "Esta foi uma operação muito bem organizada e cuidadosamente planeada. Estamos a trabalhar em estreita colaboração com as autoridades competentes para identificar os responsáveis e restabelecer a calma na nossa cidade.
+	</text>
+	<text id="240">Assalto ao Glasgow Trust Bank</text>
+	<text id="241">Comunicar problemas</text>
+
+	<text id="242">Consentimento para a recolha de dados</text>
+	<text id="243">
+		A fim de proporcionar uma melhor experiência de jogo, o jogo recolhe alguns dados anónimos sobre a sua utilização da aplicação. Estes dados ajudam-nos a compreender melhor a utilização do jogo e permitem-nos fazer melhorias significativas.
+
+		O que recolhemos:
+		- Informações de utilização do jogo, tais como acções realizadas, tempo de jogo e avanço de nível.
+		- Dados do sistema, como o tipo de dispositivo e a versão da aplicação.
+
+		Como utilizamos os dados:
+		Utilizamos os dados recolhidos apenas para fins estatísticos e analíticos. Não vendemos nem partilhamos dados pessoais com terceiros.
+
+		O seu consentimento é importante:
+		Pedimos-lhe que dê o seu consentimento para a recolha de dados.
+	</text>
+	<text id="244">Aceitar</text>
+	<text id="245">Recusar</text>
+
+	<text id="246">Instruções e directrizes para a comunicação de problemas</text>
+	<text id="247">
+		Uma comunicação detalhada e clara permitir-nos-á identificar e corrigir quaisquer problemas técnicos ou bugs no jogo. Por favor, segue cuidadosamente as regras e directrizes abaixo:
+
+		Seja claro e detalhado na sua descrição do problema encontrado. Indica qual a secção ou fase do jogo que apresentou o problema e o que observaste de anormal.
+
+		Não se esqueça de descrever as acções realizadas imediatamente antes da ocorrência do problema. Isto ajudar-nos-á a compreender o contexto em que o erro ocorreu.
+
+		Se recebeu mensagens de erro ou avisos durante o jogo, tente incluí-los na íntegra no relatório.
+
+		Indique a frequência do problema. Ocorre em todos os jogos ou apenas ocasionalmente?
+
+		Todos os relatórios serão tratados confidencialmente e só serão utilizados para melhorar o jogo e resolver quaisquer erros ou problemas técnicos.
+
+		Antes de enviar um relatório, certifica-te de que tens a versão mais recente do jogo. Por vezes, problemas que já foram resolvidos podem ainda estar presentes em versões desactualizadas.
+
+		Agradecemos a tua ajuda na comunicação de problemas e erros, mas tem em atenção que a resolução de alguns casos pode demorar algum tempo. Seja paciente enquanto trabalhamos para resolver os problemas comunicados.
+
+		Agradecemos os seus esforços para contribuir para a melhoria do nosso jogo. Com a sua ajuda, podemos oferecer uma experiência de jogo cada vez mais envolvente e gratificante.
+	</text>
+	<text id="248">Criar um relatório</text>
+	<text id="249">Enviar relatório</text>
+	<text id="250">Não foi possível enviar o relatório. Por favor, tente novamente mais tarde.</text>
+	<text id="251">Enviar relatório</text>
+	<text id="252">Resumo</text>
+	<text id="253">Descrição</text>
+	<text id="254">Enviar</text>
+	<text id="255">Cancelar</text>
+</root>

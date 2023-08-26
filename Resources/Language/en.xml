@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<text id="0" context="dialogue">No security system, lights already on, I won the lottery!</text>
+	<text id="1" context="dialogue">Damn! I better answer and pretend to be the homeowner</text>
+	<text id="3">Answer the telephone</text>
+	<text id="4">Turn off the gramophone</text>
+	<text id="5" context="dialogue">Great! this is perfect for getting the wooden crates out of the hallway</text>
+	<text id="6">Go and open a passage to the corridor</text>
+	<text id="7" context="dialogue">I must first hold the object in my hand</text>
+	<text id="8" context="dialogue">This passage is blocked, I have to find another way to pass</text>
+	<text id="9" context="dialogue">This door is locked, I have to find the key first</text>
+	<text id="10" context="dialogue">This door appears to be connected to an electrical control unit</text>
+	<text id="11" context="dialogue">I need to find a screwdriver to open it</text>
+	<text id="12">Find a screwdriver to open the control unit</text>
+	<text id="13">Go and open the control unit</text>
+	<text id="14" context="ui">Pause</text>
+	<text id="15" context="ui">Resume</text>
+	<text id="16" context="ui">Menu</text>
+	<text id="17" context="ui">Exit from game</text>
+	<text id="19" context="ui">Interact</text>
+	<text id="20" context="ui">Open</text>
+	<text id="21" context="ui">Pick</text>
+	<text id="22" context="menu">Play</text>
+	<text id="23" context="menu">Rate Game</text>
+	<text id="24" context="menu">Credits</text>
+	<text id="25" context="menu">Exit</text>
+	<text id="26" context="menu">Continue</text>
+	<text id="27" context="menu">New Game</text>
+	<text id="28" context="menu">Are you sure?</text>
+	<text id="29" context="menu">Yes</text>
+	<text id="30" context="menu">No</text>
+	<text id="31" context="menu">Data  Overwriting</text>
+	<text id="32" context="menu">It would appear that you already have a game in progress, clicking on new game will overwrite the data from the last save.
+		Are you sure you want to overwrite the game data?</text>
+	<text id="33" context="menu">Yes</text>
+	<text id="34" context="menu">No</text>
+	<text id="35" context="menu">Corrupt data found</text>
+	<text id="36" context="menu">Missing game files were detected, automatically the corrupted save was deleted. we apologize for the inconvenience.</text>
+	<text id="37" context="menu">Ok</text>
+	<text id="38" context="menu">Settings</text>
+	<text id="39" context="menu">Mouse Sensitivity</text>
+	<text id="40" context="menu">Language</text>
+	<text id="43">Read</text>
+	<text id="44">Hack</text>
+	<text id="45">Answer</text>
+	<text id="46">Take</text>
+	<text id="47" context="dialogue">Maybe I'm forgetting something in this room</text>
+	<text id="48" context="dialogue">what the hell is going on?</text>
+	<text id="49" context="dialogue">Um, an amulet right? ... Interesting</text>
+	<text id="50" context="ui">
+		It has come to my attention that you have brought to your home an artefact that you discovered during your archaeological research. I cannot ignore the fact that this is a serious breach of the professional and ethical standards that all of us archaeologists must abide by.
+
+		I would like you to know that if you do not return it to the archaeological site immediately, I will be forced to report it to Sophia. I urge you to carefully consider the seriousness of the situation and take the appropriate steps to remedy it.
+
+		Yours sincerely,
+		Ewan MacKenzie
+	</text>
+	<text id="51" context="ui">
+		The amulet was found during an archaeological search in an area that suggested the presence of an ancient Roman settlement. The object was found near a ruined wall, in an area that appeared to have been used for burial.
+
+		The amulet is made of copper and is circular in shape, with a diameter of approximately 4 cm. In the centre of the amulet is set a ruby of considerable size, about 2 cm in diameter. The surface of the amulet shows signs of wear, but the ruby stone is in relatively good condition. On the back of the amulet are engraved marks, presumably Latin inscriptions.
+
+		The radiocarbon dating of the amulet suggests that it was created in 33 AD, during the Roman era.
+	</text>
+	<text id="52" context="ui">
+		The presence of a Latin inscription on the back of the amulet suggests that it may have been used as an object of worship or as an amulet to protect the possessor from malignant forces.
+
+		The amulet seems to have been created with the intention of protecting the possessor from malignant forces. The Latin inscription on the back of the amulet ('Per dolore inferorum porta patefacitur', Through pain open the gates of the lower world) suggests that the possessor of the amulet would have had to go through pain to open the gates of the lower world and protect himself from evil forces. The presence of a ruby in the centre of the amulet could be linked to the Roman belief that this gem had protective and healing properties.
+	</text>
+	<text id="53">Turn Off</text>
+	<text id="54" context="dialogue">Wow! ... this could be worth a lot of money</text>
+	<text id="55">Check for valuables</text>
+	<text id="56">Inspect the books</text>
+	<text id="57" context="menu">Dialogues Volume</text>
+	<text id="58" context="menu">Ambience Volume</text>
+	<text id="59" context="menu">Music Volume</text>
+	<text id="60" context="menu">Screen Resolution</text>
+	<text id="61" context="menu">Texture Quality</text>
+	<text id="62" context="menu">Anti Aliasing</text>
+	<text id="63" context="menu">Shadow Quality</text>
+	<text id="64" context="dialogue">What the hell is going on?</text>
+	<text id="65" context="dialogue">I guess some animal knocked them over</text>
+	<text id="66" context="dialogue">but we'd better go check those books anyway</text>
+	<text id="67" context="dialogue">The former owner was an archaeologist</text>
+	<text id="68" context="dialogue">Such an ancient find will be worth a lot of money</text>
+	<text id="70" context="dialogue">Did that gramophone switch itself on?</text>
+	<text id="71" context="dialogue">Maybe there's a short circuit</text>
+	<text id="72" context="dialogue">But I can't risk attracting attention</text>
+	<text id="73" context="dialogue">I have to find a way to turn it off before anyone hears it</text>
+	<text id="74" context="dialogue">Better not waste time and go back to the living</text>
+	<text id="75" context="dialogue">to turn it off</text>
+	<text id="76" context="dialogue">A safe?</text>
+	<text id="77" context="dialogue">I can try hacking it open</text>
+	<text id="78" context="dialogue">Oh, God, what was that thing?</text>
+	<text id="79" context="dialogue">It was here in front of me</text>
+	<text id="81" context="dialogue">But no... it can't be real</text>
+	<text id="82" context="dialogue">It must just be my mind playing tricks.</text>
+	<text id="83" context="dialogue">My daughter's treatments are expensive</text>
+	<text id="84" context="dialogue">And this work is the only solution, I must continue</text>
+	<text id="91">Hack the safe</text>
+	<text id="92" context="dialogue">I think i hear a chant coming from the bathroom</text>
+	<text id="93" context="dialogue">Here is the first key! I have two more to find</text>
+	<text id="94" context="dialogue">Only the last key is missing, i wonder where it could be</text>
+	<text id="95" context="dialogue">And here's the last one, let's see what's hiding in that drawer</text>
+	<text id="96" context="dialogue">I first have to find a key to unlock it</text>
+	<text id="97" context="dialogue">Whoever lived here wanted to protect</text>
+	<text id="98" context="dialogue">incredibly well this drawer</text>
+	<text id="99" context="dialogue">Maybe the combination is in here</text>
+	<text id="100" context="dialogue">Better look for the keys to find out</text>
+	<text id="101">Find the drawer keys</text>
+	<text id="102" context="dialogue">Behind this room might be something useful</text>
+	<text id="103" context="dialogue">I need to find the combination ... but how?</text>
+	<text id="104">Search for the combination</text>
+	<text id="105">CORRECT</text>
+	<text id="106">INCORRECT</text>
+	<text id="107" context="ui">Signal transporter</text>
+	<text id="108" context="ui">Carry the signal to the door to open it, you can use the arrow keys to change direction to the signal</text>
+	<text id="109" context="ui">System Bypassed</text>
+	<text id="110" context="ui">Cipher Breaker</text>
+	<text id="111" context="ui">Find the correct characters in the grid and arrange them correctly in the second grid by dragging them to decode the string.</text>
+	<text id="112" context="ui">System error occurred</text>
+	<text id="113" context="ui">Retry in</text>
+	<text id="114" context="ui">HACKING FAILED</text>
+	<text id="115" context="ui">Retry</text>
+	<text id="116" context="ui">SYSTEM BYPASSED SUCCESFULLY</text>
+
+	<text id="117" context="dialogue">I don't think this object can be of any use to me</text>
+	<text id="118" context="dialogue">Incense? from the image it looks to me like I have</text>
+	<text id="119" context="dialogue">already seen something similar</text>
+	<text id="120" context="dialogue">Of course! I saw them in the room with the safe</text>
+	<text id="121" context="dialogue">I think I also saw another one in the office</text>
+	<text id="122" context="dialogue">where I found the axe</text>
+	<text id="123" context="dialogue">I think there is something else useful in this room</text>
+	<text id="124" context="dialogue">I might try to check further</text>
+	<text id="125" context="dialogue">Perfect now, I suppose I need to find 6 candles</text>
+	<text id="126" context="dialogue">I think I've seen these somewhere before, too</text>
+	<text id="127" context="dialogue">Right! I saw some in the office on the ground floor</text>
+	<text id="128" context="dialogue">There are probably more in the bathroom and</text>
+	<text id="129" context="dialogue">in the bedroom on the second floor</text>
+	<text id="130">"When we open the door to darkness, we often forget that what lies behind it may not want to go away." - Stephen King</text>
+	<text id="131">Destroy</text>
+	<text id="132">Disabled</text>
+	<text id="133" context="ui">
+		It was said that Paimon was trying to obtain an ancient amulet, the power of which could grant its possessor absolute control over hell and earth. But few knew that there was a way to stop him.
+
+		Legend has it that there was an ancient ritual that could send Paimon back to hell, where he could harm no one. The ritual required the placement of six candles and three incense sticks on Solomon's seal, along with the amulet that Paimon was so determinedly seeking.
+	</text>
+
+	<text id="134" context="dialogue">He must have hidden the amulet in the safe so he couldn't get it.</text>
+	<text id="135" context="dialogue">I can't let him get possession of the amulet.</text>
+	<text id="136" context="dialogue">I have to take courage and face this situation.</text>
+	<text id="161" context="dialogue">it is very likely that given the confidentiality</text>
+	<text id="137" context="dialogue">in protecting this drawer</text>
+	<text id="138" context="dialogue">the combination must be encrypted</text>
+	<text id="139" context="dialogue">They are geometric figures...</text>
+	<text id="140" context="dialogue">It could be something to do with the sides of the figures</text>
+	<text id="141" context="dialogue">I got it! a hexagon has 6 sides.</text>
+	<text id="142" context="dialogue">A square has 4 sides. A circle 0 and a triangle 3.</text>
+	<text id="143" context="dialogue">The combination must be 6-4-0-3</text>
+	<text id="144" context="ui">Choice of graphic profile</text>
+	<text id="145" context="ui">Low Quality</text>
+	<text id="146" context="ui">Medium Quality</text>
+	<text id="147" context="ui">High Quality</text>
+	<text id="148" context="ui">Video RAM</text>
+	<text id="149" context="ui">Required: </text>
+	<text id="150" context="ui">RAM</text>
+	<text id="151" context="ui">Choose</text>
+	<text id="152" context="ui">Recommended</text>
+	<text id="153" context="ui">WARNING</text>
+	<text id="154" context="ui">
+		This game uses intense light and strobe effects. It is recommended not to play if you have epilepsy or other similar disorders that could be affected by the visual effects of the game. It is recommended that you discontinue use immediately if you experience symptoms such as dizziness, nausea, headache or visual fatigue.
+	</text>
+	
+	<text id="155" context="ui">
+		12/07/2013
+		I decided to start studying the amulet in my spare time, I know I shouldn't have brought it to my home, but I think it is a very interesting and special object.
+	</text>
+	<text id="156" context="ui">
+		19/07/2013
+		Today I cut myself with a scalpel while trying to collect a sample for analysis, and a drop of blood splashed on the amulet, the really surreal thing is that the gem in the center for some reason started to glow intensely for a few seconds.
+	</text>
+	<text id="157" context="ui">
+		20/07/2013
+		Nothing seems to have happened, I still don't understand why the gem glowed, I tried cutting myself again to see the reaction but nothing. Also, one of my colleagues came to know that I brought here to my house an object owned by the excavation site.
+	</text>
+	<text id="158" context="ui">
+		27/07/2013
+		Strange things have been happening in my house for a few days now. At first they were small things, I thought I had simply lost items, but then my gramophone turned on by itself and I heard a little girl singing and calling for help. It is as if there is something in this house, I am really confused.
+	</text>
+	<text id="159" context="ui">
+		29/07/2013
+		I kept looking for a logical explanation for the strange events happening in my house, but I couldn't find anything. I decided to ask for help from a friend who is an expert in paranormal phenomena to see if he can help me understand what is going on.
+	</text>
+	<text id="160" context="ui">
+		04/08/2013
+		I had a terrible night. While I was trying to sleep, I heard a voice calling me from the living room. I went to check and found an open agenda on my desk. On the open page was the name "Paymon" and the words "Now you know my name, and with it your eternal condemnation." I don't know what it means, but I'm afraid.
+	</text>
+	<text id="80" context="ui">Exit</text>
+	
+	<text id="162" context="ui">
+		For whoever is reading this letter. You must finish what I have started.
+		My name is Robert Andrew Sinclair and I do not have much time left before the devil takes over so I am writing this letter to inform you of the situation.
+
+		When I accepted a job offer at Carmtyne Roman Fort, an archaeological dig site near Glasgow, I had to leave my hometown of Aberdeen, and I had to give up my lectureship at the university. With the savings I had accumulated I bought an old bank called Glasgow Trust Bank, which after bankruptcy was converted into a multifunctional flat by James William Anderson. Everything was perfect until I came across an amulet dating back to 33 AD. I don't want to bore you any further, and I don't even have the time to do that so I'll get down to business.
+	</text>
+	<text id="163" context="ui">
+		I did a lot of research when I realised that the situation was beyond logic and the concept of reality and initially I did not find anything too specific, generic things:
+
+		1. Demons are supernatural creatures that can influence people and situations around them.
+
+		2. Knowing the name of a demon can increase its power over the person it wants to possess.
+
+		3. The use of sacred symbols can be effective in protecting oneself and fighting demons.
+	</text>
+	<text id="164" context="ui">
+		I have never been a religious person but the bible was very helpful this time, through one passage I got three more pieces of information about my enemy.
+
+		1. Paymon is a demon of Goetia, one of the kings of hell.
+		2. He can take different forms and appear in different ways, depending on the invoker and the situation.
+		3. The person who conjures him will die after 33 days.
+
+		When I found out that I would not be celebrating my 40th birthday, 31 days had already passed, which meant that I only had 48 hours left to find out how to beat him.
+	</text>
+	<text id="165" context="ui">
+		After much effort, I found a book called "et tenebris velamen" which mentioned what from the description seemed to be the amulet we had found at the excavation site.
+		This book said that under no circumstances should the amulet enter the hands of the demon, or the gateway to hell would open and that would be the end of humanity.
+		However, the book also said that the amulet was the key to trapping the demon inside again and I quote: "It is possible to defeat the demon, with the seal of Solomon, by placing the amulet in the centre and surrounding it with six candles and three incense burners".
+	</text>
+	<text id="166" context="ui">
+		Actually at that point I had not yet given up, I am a human being and even though I had been condemned I had the desire to survive, and it was then, when I saw it in front of me for the first time, that I realised that time would not be enough for me.
+		So I decided to entrust the fate of the world into the hands of a stranger. Now that you know everything, you can't back out.
+
+		P.S: I have left everything you need for the ritual at home, plus I have prepared a room ready, find the objects, and find my work computer, there you will find the explanation. Password is Robert2012.
+	</text>
+	<text id="167">Unlock</text>
+	<text id="168">Loading...</text>
+	<text id="169">New diary page found</text>
+	<text id="170">to read</text>
+	<text id="171">Exit</text>
+	<text id="172" context="ui-sheet">Object ID,Description,Material,Type,Origin,Date Found,Location Found;AR001,Bronze statue,Bronze,Sculpture,Glasgow,May 2023,Room 3;AR002,Roman coin,Gold,Currency,Glasgow,June 2023,Bathhouse;AR003,Fragment of a Roman vase,Terracotta,Pottery,Glasgow,July 2023,Kitchen; AR004,Pair of Roman sandals,Leather,Footwear,Glasgow,August 2023,Storage Room; AR005,Roman spearhead,Iron,Weaponry,Glasgow,September 2023,Yard; AR006,Roman lamp,Terracotta,Lighting,Glasgow,October 2023,Guard Room; AR007,Roman glass bottle,Glass,Vessel,Glasgow,November 2023,Storage Room; AR008,Roman pottery jug,Terracotta,Pottery,Glasgow,December 2023, Centurion's House; AR009,Roman brooch,Bronze,Jewelry,Glasgow,January 2024,Barracks Block 3; AR010,Roman shield boss,Bronze,Armor,Glasgow,February 2024, Armory Block;</text>
+	<text id="173" context="ui-sheet">Date,Category,Amount; 01/01/2023,Office Supplies,£25; 02/01/2023,Travel Expenses,£150; 05/01/2023,Internet and Phone,£70; 07/01/2023,Equipment Rental,£200; 10/01/2023,Printing and Binding,£80; 15/01/2023,Advertising,£350; 20/01/2023,Software Subscriptions,£100; 25/01/2023,Consultancy Fees,£500; 28/01/2023,Travel Expenses,£120;</text>
+	<text id="174" context="ui-document">
+		Excavation Report  Site: Carmtyne Roman Fort
+		Location: Glasgow, Scotland
+		Date: March 2023
+
+		Introduction
+		This excavation was conducted in March 2023 at the Carmtyne Roman Fort site in Glasgow, Scotland. The excavation was commissioned by the Glasgow City Council in partnership with the University of Glasgow and led by Dr. Robert Andrew Sinclair, an archaeologist with extensive experience in Roman archaeology.  Summary of Findings The excavation at Carmtyne Roman Fort uncovered a wealth of Roman artifacts, including coins, pottery, metal objects, and architectural features. The most significant findings include:
+
+		A well-preserved section of the Roman wall, measuring approximately 20 meters in length and 3 meters in height A Roman bathhouse complex, complete with a hypocaust heating system and several well-preserved marble tiles
+
+		A collection of Roman coins, including several rare specimens dating back to the 1st century AD An assortment of pottery fragments, including some with intricate decorative patterns and inscriptions
+
+		A bronze statue of a Roman emperor, believed to be Augustus, that was found in remarkable condition Location of Artifacts All artifacts were carefully cataloged and mapped during the excavation.
+
+		The location of each artifact was recorded using GPS coordinates and marked on a detailed site map. The artifact locations are as follows:
+		Roman wall: Grid reference 55.938156, -4.131343
+		Bathhouse complex: Grid reference 55.937952, -4.131536
+		Coin collection: Grid reference 55.937822, -4.130990
+		Pottery fragments: Grid reference 55.937792, -4.131157
+		Bronze statue: Grid reference 55.937756, -4.131410
+
+		The excavation at Carmtyne Roman Fort has yielded a wealth of new information about the Roman presence in Scotland and shed light on the daily lives of the soldiers and civilians who lived and worked at the fort. The artifacts recovered from the site will be studied further by the team of archaeologists and historians at the University of Glasgow, and will be made available to the public for viewing and research in the near future.
+	</text>
+	<text id="175" context="ui-document">
+		Project Title: Excavating Carmtyne Roman Fort Project
+		Leader: Dr. Robert Andrew Sinclair
+
+		Introduction
+		The Carmtyne Roman Fort site in Glasgow, Scotland has been identified as a potential treasure trove of Roman artifacts. This proposal outlines a comprehensive excavation project to uncover the secrets of this ancient Roman settlement and shed light on the daily lives of the soldiers and civilians who lived and worked there.
+
+		Project Objectives
+		The objectives of this excavation project are as follows:
+
+		To uncover and catalog all artifacts and architectural features at the Carmtyne Roman Fort site.
+
+		To document the layout and construction of the fort and associated buildings.
+
+		To study and analyze the recovered artifacts to better understand the daily lives and activities of the Roman occupants of the fort.
+
+		The project will be led by Dr. Robert Andrew Sinclair, an experienced archaeologist with a focus on Roman archaeology. The excavation will be conducted using a combination of traditional hand excavation and modern scientific techniques, such as ground-penetrating radar and 3D scanning. The artifacts and architectural features recovered from the site will be carefully cataloged and analyzed using state-of-the-art equipment and techniques.
+
+		Expected Outcomes
+		The excavation project is expected to yield a wealth of new information about the Roman presence in Scotland and shed light on the daily lives of the soldiers and civilians who lived and worked at Carmtyne Roman Fort. The artifacts recovered from the site will be studied further by the team of archaeologists and historians at the University of Glasgow, and will be made available to the public for viewing and research in the near future.
+
+		Budget
+		The total budget for this excavation project is estimated to be £500,000.
+		This includes costs associated with personnel, equipment, travel, and accommodation. Conclusion The excavation project at Carmtyne Roman Fort promises to be an exciting and informative undertaking. The project will bring together experts in the field of Roman archaeology and modern scientific techniques to uncover the secrets of this ancient settlement. The results of the project will be of interest to scholars, historians, and the general public alike.
+	</text>
+	<text id="176" context="ui-document">
+		What many people did not know was that James, when he bought the Glasgow Trust Bank, created a secret room in the renovation work to meet with an ancient council of powerful families with the aim of maintaining their power and influence over the city. This council had as its main objective the accumulation of money and power, using methods that were not always legal or ethical.
+
+		James had been a member of this council since childhood, his family had been on the council for 3 generations, but during his adult life he began to feel increasingly disillusioned with the way they operated and decided to create the secret room as a way to keep track of their activities and to try to counterbalance their power. The secret room contained valuable documents and information that could be used to expose the council members and end their hegemony over the city.
+
+		But the council did not give up easily. As soon as they became aware of James' secret room, they began trying to find and destroy it, convinced that their existence would be compromised if the information contained in the room was made public. A manhunt began to find the secret room and its contents, and James was forced to go into hiding and adopt a new identity to protect himself.
+
+		But not all the council members agreed with their group's actions. Some of them began to secretly collaborate with James, providing him with valuable information and helping him keep the secret room safe. Eventually, thanks to the information gathered in the room, James was able to expose the council members and bring out the truth about their operation.
+
+		Now, many years later, James' secret room is still there, hidden and protected from anyone who wants to protect truth and justice. The mechanism for opening the room remains unknown to this day, but I have found and put together some clues that might help you find it.
+	</text>
+	<text id="177">Clues found</text>
+	<text id="178">Open the drawer</text>
+	<text id="179">Open the door using the combination</text>
+	<text id="180">Check the bathroom</text>
+	<text id="181">Find objects for the ritual</text>
+	<text id="182">Search for information in the computer</text>
+	<text id="183">Prepare the ritual in the secret room</text>
+	<text id="184" context="dialogue">I have collected everything I need</text>
+	<text id="185" context="dialogue">Now I have to look for information in the computer</text>
+	<text id="186" context="dialogue">Interesting, probably the verse of the crosses</text>
+	<text id="187" context="dialogue">unlocks the secret room</text>
+	<text id="188">Nothing happened</text>
+	<text id="189">If I remember correctly it was the blood that</text>
+	<text id="190">activated the amulet the first time</text>
+	<text id="191">I saw something sharp in the bedroom</text>
+	<text id="192">But if that thing will see me</text>
+	<text id="193">Then all this will have been for nothing</text>
+	<text id="194" context="dialogue">I need to access the computer</text>
+	<text id="195" context="dialogue">the password was in the letter</text>
+	<text id="196" context="dialogue">i hope i remember it right</text>
+	<text id="197" context="dialogue">Was a prank call...</text>
+	<text id="198" context="dialogue">Better look for the key to this door</text>
+	<text id="199">Start the ritual</text>
+	<text id="200">Find a way to open the secret passage</text>
+	<text id="201">
+		Candles
+		Bedroom: 1
+		Bathroom: 1
+		Office A: 2
+		Sewers: 2
+	</text>
+	
+	<text id="202">
+		Incense Burners
+		Study: 1
+		Sewers: 1
+		Office B: 1
+	</text>
+	<text id="203">Look for valuables to steal</text>
+	<text id="204">
+		You can use the F key to turn the flashlight on and off when selected from the inventory.
+
+		You can use the E key to open/close letters as well as for interaction with general objects.
+
+		You can use the left shift to run.
+
+		You can use the WASD keys to move and the mouse to control the character's view.
+
+		You can use the P key to pause the game.
+	</text>
+	
+	<text id="205">Continue</text>
+	<text id="206">Before trying to hack the safe</text>
+	<text id="207">I should check those books that have fallen out</text>
+	<text id="208">Robert...</text>
+	<text id="209">I guess you don't need this anymore</text>
+	<text id="210">See you on the other side</text>
+	<text id="211">Find a way to exit</text>
+	<text id="212">Remove the barricade from the exit door</text>
+	<text id="213">I have to find something to take these bars off</text>
+	<text id="214">I can't get out now</text>
+	<text id="215">These levers could unlock something useful</text>.
+	<text id="216">This could be a useful metaphor to understand</text>
+	<text id="217">the order in which to lower the levers.</text>
+	<text id="218">"follow the ancient deity of the Shining Iris"...</text>
+	<text id="219">he could mean the sun.</text>
+	<text id="220">"Where the soul of the Earth intertwines with the sky"...</text>
+	<text id="221">this could mean the tree.</text>
+	<text id="222">"When the silvery night watches overhead in the firmament"...</text>
+	<text id="223">could mean the moon.</text>
+	<text id="224">I would therefore say that the right combination is sun, tree, moon.</text>
+	<text id="225">this room is a trap!</text>
+	<text id="226">the water level is rising.</text>
+	<text id="227">I must find a way out of here</text>
+	<text id="228">before the water touches those cables.</text>
+	<text id="229">Leave the room before time runs out</text>	
+	<text id="230">It was a close call!</text>
+	<text id="231">Better take a look around.</text>
+	<text id="232">maybe I'll find something useful...</text>
+	<text id="233">I think I've just opened a room</text>
+	
+	<text id="234">I should turn off the gramophone</text>
+	<text id="235">it's absurd</text>
+	<text id="236">but... where am i?</text>
+	<text id="237">Explore the sewers</text>
+	<text id="238">
+		In the enveloping darkness
+		follow the ancient deity of the Shining Iris
+		Where the Soul of Earth intertwines with the sky
+		And when the Silvery Night watches high in the firmament
+	</text>
+	<text id="239">
+		The robbery occurred last night when the city was shrouded in silence. The robbers, still unknown, entered the bank through a hidden access located deep in the sewer system. Investigators believe they had extensive knowledge of the underground pipes and tunnels to be able to plan such a well-coordinated and discreet attack.
+
+		Once inside the bank, the crooks acted with extreme speed and efficiency, heading straight for the vault, where the valuable safety deposit boxes were located.
+
+		Police Commissioner John Anderson issued a statement regarding the unusual manner of the robbery: "This was a very well organized and carefully planned operation. We are working closely with the relevant authorities to identify those responsible and restore calm to our city.
+	</text>
+	<text id="240">Strike at Glasgow Trust Bank</text>
+	<text id="241">Reporting problems</text>
+	
+	<text id="242">Consent for Data Collection</text>
+	<text id="243">
+		To provide you with a better game experience, the game collects some anonymous data regarding your use of the application. This data helps us better understand how you use the game and allows us to make meaningful improvements.
+
+		What we collect:
+		- Game usage information, such as actions performed, game time, and level progress.
+		- System data, such as device type and application version.
+
+		How we use the data:
+		The data collected is used for statistical and analytical purposes only. We do not sell or share personal data with third parties.
+
+		Your consent is important:
+		We kindly ask you to provide your consent for data collection.
+	</text>
+	<text id="244">Accept</text>
+	<text id="245">Refuse</text>
+	
+	<text id="246">Instructions and Guidelines on Problem Reporting</text>
+	<text id="247">
+		A detailed and clear report will enable us to identify and solve any technical problems or bugs in the game. Please follow the rules and guidelines below carefully:
+
+		Be <b>clear and detailed</b> in your description of the problem encountered. Indicate which section or phase of the game presented the problem and what you observed abnormally.
+
+		Remember to <b>describe the actions</b> you took immediately before the problem occurred. This will help us understand the context in which the error occurred.
+
+		If you received error messages or warnings during the game, try to include them in the report in full.
+
+		Indicate <b>how often the problem occurred</b>. Does it occur with every game, or only occasionally?
+
+		All reports will be treated confidentially and will only be used to improve the game and solve any bugs or technical problems.
+
+		Before submitting a report, please <b>make sure you have the latest version</b> of the game. Sometimes, problems that have already been solved may still be present in outdated versions.
+
+		We appreciate your help in reporting problems and bugs, but please be aware that the resolution of some cases may take time. Please be patient while we work to resolve reported issues.
+
+		Thank you for your efforts in contributing to the improvement of our game. With your help, we can offer an increasingly engaging and rewarding gaming experience.
+	</text>
+	<text id="248">Create Report</text>
+	<text id="249">Submitting Report</text>
+	<text id="250">The report could not be sent. Please try again later.</text>
+	<text id="251">Report</text>
+	<text id="252">Summary</text>
+	<text id="253">Description</text>
+	<text id="254">Submit</text>
+	<text id="255">Cancel</text>
+
+	
+
+</root>
